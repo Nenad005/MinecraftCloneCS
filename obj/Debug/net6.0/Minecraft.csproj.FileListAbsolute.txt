@@ -1,0 +1,132 @@
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.csproj.AssemblyReference.cache
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfoInputs.cache
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfo.cs
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.csproj.CoreCompileInputs.cache
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Minecraft.exe
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Minecraft.deps.json
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Minecraft.runtimeconfig.json
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Minecraft.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Minecraft.pdb
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.csproj.CopyComplete
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.dll
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\refint\Minecraft.dll
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.pdb
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\Minecraft.genruntimeconfig.cache
+C:\Projects\c#\OPENGL\Minecraft\obj\Debug\net6.0\ref\Minecraft.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Imagekit.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\GlmNet.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\ImGui.NET.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\osx-universal\native\libcimgui.dylib
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\YamlDotNet.dll
+C:\Projects\c#\OPENGL\Minecraft\bin\Debug\net6.0\SharpNoise.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\Minecraft.exe
+G:\My Drive\Minecraft\bin\Debug\net6.0\Minecraft.deps.json
+G:\My Drive\Minecraft\bin\Debug\net6.0\Minecraft.runtimeconfig.json
+G:\My Drive\Minecraft\bin\Debug\net6.0\Minecraft.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\Minecraft.pdb
+G:\My Drive\Minecraft\bin\Debug\net6.0\GlmNet.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\Imagekit.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\ImGui.NET.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Compute.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Core.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Graphics.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Input.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Mathematics.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.OpenAL.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\SharpNoise.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\YamlDotNet.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\osx-universal\native\libcimgui.dylib
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\My Drive\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.csproj.AssemblyReference.cache
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfoInputs.cache
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfo.cs
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.csproj.CoreCompileInputs.cache
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.csproj.CopyComplete
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.dll
+G:\My Drive\Minecraft\obj\Debug\net6.0\refint\Minecraft.dll
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.pdb
+G:\My Drive\Minecraft\obj\Debug\net6.0\Minecraft.genruntimeconfig.cache
+G:\My Drive\Minecraft\obj\Debug\net6.0\ref\Minecraft.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Minecraft.exe
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Minecraft.deps.json
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Minecraft.runtimeconfig.json
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Minecraft.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Minecraft.pdb
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\GlmNet.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Imagekit.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\ImGui.NET.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Core.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Input.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\SharpNoise.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\YamlDotNet.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\osx-universal\native\libcimgui.dylib
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\zip projects\Minecraft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.csproj.AssemblyReference.cache
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfoInputs.cache
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.AssemblyInfo.cs
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.csproj.CoreCompileInputs.cache
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.csproj.Up2Date
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.dll
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\refint\Minecraft.dll
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.pdb
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\Minecraft.genruntimeconfig.cache
+C:\dev\zip projects\Minecraft\obj\Debug\net6.0\ref\Minecraft.dll

@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\zip projects\\MinecraftCloneCS\\Minecraft.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\zip projects\\MinecraftCloneCS\\Minecraft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\zip projects\\MinecraftCloneCS\\Minecraft.csproj",
+        "projectName": "Minecraft",
+        "projectPath": "C:\\dev\\zip projects\\MinecraftCloneCS\\Minecraft.csproj",
+        "packagesPath": "C:\\Users\\nenad\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\zip projects\\MinecraftCloneCS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nenad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "GlmNet": {
+              "target": "Package",
+              "version": "[0.7.0, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.87.3, )"
+            },
+            "Imagekit": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "SharpNoise": {
+              "target": "Package",
+              "version": "[0.12.1.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0-preview.3.22175.4, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
